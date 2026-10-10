@@ -13,6 +13,19 @@ Compare different chunking strategies, embedding models, vector stores, and LLMs
 
 ---
 
+# 🎬 Architecture Demo
+
+An animated walkthrough of the platform architecture is available below:
+
+### Interactive Version
+
+assets/demo/rag-playground-demo.html
+
+### Video Demo
+
+assets/demo/rag-playground-demo.mp4
+
+
 # 🎯 Why This Project?
 
 Most RAG applications provide a single retrieval pipeline:
