@@ -1,0 +1,37 @@
+# Virtual Environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Temporary Files
+temp/
+uploads/
+
+# Vector Stores
+faiss/
+chroma/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+*.faiss
+*.chroma
+chroma_db/
+vectorstore/
