@@ -371,23 +371,11 @@ Compare:
 
 # 📸 Screenshots
 
-## Upload & Configure Pipelines
 
-_Add screenshot here_
 
----
+# 📸 Screenshots
 
-## Benchmark Dashboard
-
-_Add screenshot here_
-
----
-
-## Side-by-Side Responses
-
-_Add screenshot here_
-
----
+Visual walkthroughs and benchmark examples will be added in a future release.
 
 # 🛣 Roadmap
 
